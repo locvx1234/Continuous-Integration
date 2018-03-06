@@ -6,5 +6,5 @@ Vì thể, nếu project của bạn đang lưu trữ trên Github, thì Travis-
 
 ### Các nội dung chính :
 
-- Sử dụng Travis-CI
+- [Sử dụng Travis-CI](https://github.com/locvx1234/Continuous-Integration/blob/master/travis-CI/usage.md)
 - File cấu hình

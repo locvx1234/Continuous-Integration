@@ -13,7 +13,7 @@ Về chủ đề này, có một vài keywork có thể bạn cần phải quan 
 Một công cụ tự động cung cấp giải pháp packaging, testing và deployment phần mềm Python từ giao diện console hoặc CI server.
 
 
-## Travis-CI
+## [Travis-CI](https://github.com/locvx1234/Continuous-Integration/tree/master/travis-CI)
 Travis-CI là một server CI phân tán, dùng để test các project open source.
 Nó cung cấp nhiều worker để chạy các bài test và nó cũng tích hợp với Github.
 Vì thể, nếu project của bạn đang lưu trữ trên Github, thì Travis-CI là một lựa chọn để bắt đầu với CI một cách dễ dàng.
